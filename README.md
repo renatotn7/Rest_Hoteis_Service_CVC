@@ -5,7 +5,7 @@ maven install
 ## load service
 mvn spring-boot:run
 
-##Usando o endpoint
+## Usando o endpoint
 Exemplo chamada por hotel:
 http://localhost:8080/v1/hotels/1?checkin=01/01/2018&checkout=02/01/2018&numAdultos=2&numCriancas=1
 
